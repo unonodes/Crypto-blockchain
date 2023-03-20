@@ -1,4 +1,5 @@
 cd ~
 echo "$(source .bashrc)"
-echo "$(.bash_profile)"
-echo "$(.profile)"
+echo "$(source .bash_profile)"
+echo "$(source .profile)"
+echo "source: Source | Bash_profile | Profile"
