@@ -1,3 +1,4 @@
+#!/bin/bash
 cd ~
 echo "$(source .bashrc)"
 echo "$(source .bash_profile)"
